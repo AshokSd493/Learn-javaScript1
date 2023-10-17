@@ -1,4 +1,4 @@
 function giveMyName(){
-    console.log("Ashok")
+    console.log("Ashok");
 }
 giveMyName();
