@@ -4,7 +4,7 @@ const dept = "QA"
 
 console.log(`Hello my name is ${name} and I work as ${dept}`)
 
-const newName = new String("Ashok")
+//const newName = new String("Ashok")
 
 // console.log("Hello my name is "+name+" and I work as "+dept);
 
