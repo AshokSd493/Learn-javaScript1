@@ -1,4 +1,4 @@
-function.giveMyName(){
+function giveMyName(){
     console.log("Ashok")
 }
 giveMyName();
