@@ -17,6 +17,14 @@ const user = {
     "hobby":"travelling",
 
     [mysym]:"Declared Symbol"
-
-
+  
+    
 }
+user.email = "biden@rediffmail.com"
+console.log(user);
+Object.freeze(user)
+
+function.giveMyName(){
+    console.log("Ashok")
+}
+giveMyName();
